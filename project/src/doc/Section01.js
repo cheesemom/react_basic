@@ -5,12 +5,12 @@ const Section01 = () => {
     return (
         <section className="about">
             <h2><span className="t_b">CEO's</span> GREETINGS</h2>
-            <p>귀여운 산리오 쿠로미</p>
+            <p>귀여운 산리오 친구들</p>
             <div className="container">
                 <div className="des">
                     <p className="tit">
                         웹서비스의 <span className="t_b">새로운 미래를</span><br />
-                        <span className="t_b">우투드영투드우</span>가 만들어 가겠습니다.
+                        <span className="t_b">산리오</span>가 만들어 가겠습니다.
                     </p>
 
                     <p>
@@ -30,7 +30,7 @@ const Section01 = () => {
                         Tenetur, modi sequi quaerat architecto voluptate quasi.
                     </p>
 
-                    <p>우투드영투드우 임직원 일동</p>
+                    <p>산리오 임직원 일동</p>
                 </div>
                 <figure>
                     <img src="./img/4.jpg" alt="" />
@@ -45,15 +45,15 @@ const Section01 = () => {
                         <tbody>
                             <tr>
                                 <th>주 소</th>
-                                <td>부산시 동래구 사직동 1234-56 쌍둥이 돼지국밥 옆</td>
+                                <td>부산시 해운대구</td>
                                 <th>전화번호</th>
-                                <td>051-783-2317</td>
+                                <td>051-000-0000</td>
                             </tr>
                             <tr>
                                 <th>전화번호</th>
-                                <td>051-783-2317</td>
+                                <td>051-111-2222</td>
                                 <th>전화번호</th>
-                                <td>051-783-2317</td>
+                                <td>051-000-0000</td>
                             </tr>
                         </tbody>
                     </table>
